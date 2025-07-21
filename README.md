@@ -35,17 +35,17 @@
 
 ## 📦 Featured Repos / Projects
 
-- [**nextjs-Ecommerce-website**](#https://e-commerce-hackathone03.vercel.app/) –  Next.js template
-- [**agentic-experiments**](#https://github.com/hussain9491/crypto_data_agent.git) – Playground for OpenAI SDK agents & guardrails
+- [**nextjs-Ecommerce-website**](# https://e-commerce-hackathone03.vercel.app/) –  Next.js template
+- [**agentic-experiments**](# https://github.com/hussain9491/crypto_data_agent.git) – Playground for OpenAI SDK agents & guardrails
 
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [Portfolio / Website](#https://portfolio-python-nextjs.vercel.app/) (Agentic-AI developer)
-- 🌐 [Portfolio / Website](#[https://vercel.com/hussain-alis-projects-2620cab6/portfolio-python-nextjs](https://my-personal-portfolio-six-gray.vercel.app/)) (frontend developer)
-- 🐦 [Twitter](#https://x.com/home)
-- 💼 [LinkedIn](#https://www.linkedin.com/in/hussain-ali-7021aa2b8/)
-- 📦 [GitHub](#https://github.com/hussain9491/)
+- 🌐 [Portfolio / Website](# https://portfolio-python-nextjs.vercel.app/) (Agentic-AI developer)
+- 🌐 [Portfolio / Website](# [https://vercel.com/hussain-alis-projects-2620cab6/portfolio-python-nextjs](https://my-personal-portfolio-six-gray.vercel.app/)) (frontend developer)
+- 🐦 [Twitter](# https://x.com/home)
+- 💼 [LinkedIn](# https://www.linkedin.com/in/hussain-ali-7021aa2b8/)
+- 📦 [GitHub](# https://github.com/hussain9491/)
 
 ---
 
@@ -53,3 +53,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,python,nodejs,openai-SDK,typescript,javascript,sanity,vercel,git" alt="Skills" />
 </p>
 
+<p align="center">
+  Made with ❤️ by Hussain Ali
+</p>
