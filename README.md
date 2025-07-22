@@ -53,6 +53,4 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,python,nodejs,openai-SDK,typescript,javascript,sanity,vercel,git" alt="Skills" />
 </p>
 
-<p align="center">
-  Made with ❤️ by Hussain Ali
-</p>
+
