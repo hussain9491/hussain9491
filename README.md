@@ -41,11 +41,11 @@
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [Portfolio / Website](# https://portfolio-python-nextjs.vercel.app/) (Agentic-AI developer)
-- 🌐 [Portfolio / Website](# [https://vercel.com/hussain-alis-projects-2620cab6/portfolio-python-nextjs](https://my-personal-portfolio-six-gray.vercel.app/)) (frontend developer)
-- 🐦 [Twitter](# https://x.com/home)
-- 💼 [LinkedIn](# https://www.linkedin.com/in/hussain-ali-7021aa2b8/)
-- 📦 [GitHub](# https://github.com/hussain9491/)
+- 🌐 [Portfolio / Website]( https://portfolio-python-nextjs.vercel.app/) (Agentic-AI developer)
+- 🌐 [Portfolio / Website]( [https://vercel.com/hussain-alis-projects-2620cab6/portfolio-python-nextjs](https://my-personal-portfolio-six-gray.vercel.app/)) (frontend developer)
+- 🐦 [Twitter]( https://x.com/home)
+- 💼 [LinkedIn]( https://www.linkedin.com/in/hussain-ali-7021aa2b8/)
+- 📦 [GitHub]( https://github.com/hussain9491/)
 
 ---
 
