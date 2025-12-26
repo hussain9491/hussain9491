@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Hussain  Ali</h1>
 
 <p align="center">
-  🧑‍💻 Next.js Developer | 🐍 Agentic-Open-AI-SDK developer | 🤖 Exploring Agentic AI with OpenAI SDK
+  🧑‍💻 backend Developer | 🐍 Agentic-Open-AI-SDK developer | 🤖 Exploring Agentic AI with OpenAI SDK
 </p>
 
 ---
