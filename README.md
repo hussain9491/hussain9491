@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Hussain  Ali</h1>
 
 <p align="center">
-  🧑‍💻 backend Developer | 🐍 Agentic-Open-AI-SDK developer | 🤖 Exploring Agentic AI with OpenAI SDK
+  🧑‍💻 Spec driven full_stack Developer | 🐍 Agentic-Open-AI-SDK developer | 🤖 Exploring Agentic AI with OpenAI SDK
 </p>
 
 ---
@@ -19,8 +19,10 @@
 
 - **Frontend:** Next.js, React, Tailwind CSS, TypeScript, Javascript
 - **Backend:** Node.js, Sanity, Python (FastAPI)
-- **AI / Agentic:** OpenAI SDK,  Chainlit
-- **Tools & DevOps:** Git, Docker,Render, VSCode, Vercel
+- **Database** Neon.db, SQL DB
+- **Protocol** MCP
+- **AI / Agentic:** OpenAI SDK,  Chainlit, Chatkit
+- **Tools & DevOps:** Git, Docker, VSCode, Vercel
 
 ---
 
